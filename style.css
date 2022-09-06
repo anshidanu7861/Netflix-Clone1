@@ -1,5 +1,6 @@
 *{
    overflow-x: hidden;
+   scrollbar-width: none;
 }
 
 .bg-img {
