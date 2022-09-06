@@ -62,6 +62,9 @@ section p {
    font-size: 22px;
    color: #fff;
 }
+.scroll{
+   overflow: hidden;
+}
 
 
 
